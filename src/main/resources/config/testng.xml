@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Automation Suite">
+    <test name="Example Test">
+        <classes>
+            <class name="com.test_automation.tests.BaseTest"/>
+        </classes>
+    </test>
+</suite>
